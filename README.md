@@ -5,7 +5,7 @@ Data Access:
 
 1. NOAA Optimum Interpolation SST V2 Dataset can be accessed here: https://psl.noaa.gov/data/gridded/data.noaa.oisst.v2.highres.html
    - Monthly Mean: /Datasets/noaa.oisst.v2.highres/icec.mon.mean.nc
-   - Long-Term Mean: 
+   - Long-Term Mean: /Datasets/noaa.oisst.v2.highres/icec.mon.ltm.1991-2020.nc
 2. Arctic Sea Routes can be accessed here: https://arctic-nga.opendata.arcgis.com/datasets/nga::arctic-sea-routes/explore
 3. NSIDC Sea Ice Index V3 can be accessed here: https://nsidc.org/data/g02135/versions/3 
     - Navigate here for specific file: https://noaadata.apps.nsidc.org/NOAA/G02135/north/monthly/data/
